@@ -1,0 +1,2 @@
+# fasttrack
+Sample js application
