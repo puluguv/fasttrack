@@ -1,4 +1,4 @@
 module.exports = function Hello(string) {
   
-  return "Hello from FastTrack";
+  return 'Hello'+ string + 'from FastTrack';
 };
